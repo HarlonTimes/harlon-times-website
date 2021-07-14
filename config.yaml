@@ -13,9 +13,9 @@ paginate: 6
 social:
   twitter: "https://twitter.com/harlontimes"
   github: "https://github.com/HarlonTimes/harlon-times-website"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+  instagram: ""
+  linkedin: ""
+  dribbble: ""
+  youtube: ""
 taxonomies:
   author: authors
