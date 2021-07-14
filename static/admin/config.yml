@@ -6,8 +6,8 @@ media_folder: "static/images/uploads" # Media files will be stored in the repo u
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 collections:
   - name: 'blog'
-    label: 'Post'
-    folder: 'content/post'
+    label: 'Blog'
+    folder: 'content/posts'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
@@ -15,11 +15,11 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Hero Image', name: 'hero', widget: 'image' }
       - { label: 'Excerpt', name: 'excerpt', widget: 'markdown' }
       - { label: 'Authors', name: 'authors', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-
     - name: 'author'
       label: 'Author'
       folder: 'content/authors'
