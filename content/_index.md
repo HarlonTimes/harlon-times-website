@@ -1,7 +1,8 @@
 ---
 hero:
-  heading: Harlon Times, Harlon's major news outlet.
-  maxWidthPX: 652
+  heading: 'Harlon Times: the Voice of Harlon'
+  maxWidthPX: "652"
 seo:
-  image: /images/hero-2.jpg
+  image: "/images/hero-2.jpg"
+
 ---
