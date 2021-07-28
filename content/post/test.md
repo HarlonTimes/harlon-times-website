@@ -5,7 +5,6 @@ title: Test
 excerpt: Testing
 date: 2021-07-28T14:00:00+00:00
 hero: ''
-draft: true
 
 ---
 This is a test.
