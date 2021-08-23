@@ -1,6 +1,6 @@
 baseURL: "https://example.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Harlon Times"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
@@ -11,11 +11,11 @@ module:
     - path: "github.com/forestryio/hugo-theme-novela"
 paginate: 6
 social:
-  twitter: "#"
+  twitter: "https://twitter.com/harlontimes"
   github: "#"
-  instagram: "#"
+  instagram: "https://www.instagram.com/harlontimes"
   linkedin: "#"
   dribbble: "#"
-  youtube: "#"
+  youtube: "https://youtube.com/channel/UCPI5hnOPSsQixHzZl_C0LJw"
 taxonomies:
   author: authors
