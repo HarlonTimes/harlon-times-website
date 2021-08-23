@@ -1,7 +1,8 @@
 ---
-title: Nexalin
+title: Dennis Brotzky
 bio: |
-  Hello! My name is Nexalin! I am the Founder & CEO of The Harlon Times! I am a very fun person to hang out with and talk about pretty much anything. I love sports and writing the news through a perspective of the Harlon citizen.
+  Written by You. This is where your author bio lives. Share your work, your
+  joys and of course, your Twitter handle.
 avatar: /images/dennis-brotzky.jpg
 featured: true
 social:
