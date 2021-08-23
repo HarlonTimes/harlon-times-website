@@ -5,7 +5,7 @@ hero: /images/hero-3.jpg
 excerpt: "A default excerpt"
 timeToRead: 5
 authors:
-  - Harlon Times Staff
+  - Dennis Brotzky
 draft: true
 ---
 

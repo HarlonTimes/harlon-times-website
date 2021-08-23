@@ -1,8 +1,7 @@
 ---
 hero:
-  heading: 'Harlon Times: the Voice of Harlon'
-  maxWidthPX: "652"
+  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
+  maxWidthPX: 652
 seo:
-  image: "/images/times-hero.png"
-
+  image: /images/hero-2.jpg
 ---
