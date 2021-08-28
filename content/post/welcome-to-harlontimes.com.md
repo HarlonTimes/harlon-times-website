@@ -14,6 +14,6 @@ title: Welcome to harlontimes.com!
 excerpt: 'Welcome to the grand opening of HarlonTimes.com! This is a gigantic moment
   for not only The Harlon Times but all Harlonians! '
 date: 2021-08-28T03:17:00+00:00
-hero: ''
+hero: "/images/image"
 
 ---
