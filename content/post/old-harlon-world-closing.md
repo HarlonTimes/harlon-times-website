@@ -2,7 +2,7 @@
 timeToRead: 2
 authors: []
 title: Old Harlon World Closing!
-excerpt: 'Today is the last day to explore the world we all know and love! '
+excerpt: 'Tomorrow is the last day to explore the world we all know and love! '
 date: 2021-08-28T06:00:00+00:00
 hero: "/images/ad8423e1-3747-4098-b55a-61fe89b3a52f_4_5005_c.jpeg"
 
