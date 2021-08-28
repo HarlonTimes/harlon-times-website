@@ -40,15 +40,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
-- name: post_content
-  type: textarea
-  default: "---\n"
-  config:
-    required: true
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Post Content
-  description: Content of the post
 pages:
 - content/post/welcome-to-harlontimes.com.md
