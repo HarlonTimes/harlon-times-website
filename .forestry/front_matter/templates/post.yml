@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/old-harlon-world-closing.md
 - content/post/welcome-to-harlontimes.com.md
