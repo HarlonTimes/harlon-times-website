@@ -50,3 +50,5 @@ fields:
       format: markdown
   label: Post Content
   description: Content of the post
+pages:
+- content/post/welcome-to-harlontimes.com.md
