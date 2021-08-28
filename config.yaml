@@ -12,10 +12,7 @@ module:
 paginate: 6
 social:
   twitter: "https://twitter.com/harlontimes"
-  github: "#"
   instagram: "https://www.instagram.com/harlontimes"
-  linkedin: "#"
-  dribbble: "#"
   youtube: "https://youtube.com/channel/UCPI5hnOPSsQixHzZl_C0LJw"
 taxonomies:
   author: authors
