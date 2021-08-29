@@ -2,7 +2,7 @@
 timeToRead: 2
 authors: []
 title: End of An Era
-excerpt: Today marks the sad end of an era for Harlon.
+excerpt: Today marks the sad end of an era for Harlon and the spawning of a new one!
 date: 2021-08-29T06:00:00+00:00
 hero: "/images/8130d8c5-2a7b-40a7-bf19-a36becfff5a5_1_102_o.jpeg"
 
