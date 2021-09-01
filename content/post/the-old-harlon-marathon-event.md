@@ -1,6 +1,7 @@
 ---
 timeToRead: 2
-authors: []
+authors:
+- Harlon Times Staff
 title: The Old Harlon Marathon Event
 excerpt: The Final Event of Harlon was Amazing!
 date: 2021-08-29T06:00:00+00:00

@@ -1,6 +1,7 @@
 ---
 timeToRead: 2
-authors: []
+authors:
+- Harlon Times Staff
 title: Old Harlon World Closing!
 excerpt: 'Tomorrow is the last day to explore the world we all know and love! '
 date: 2021-08-28T06:00:00+00:00

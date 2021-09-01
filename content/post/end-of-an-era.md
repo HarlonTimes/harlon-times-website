@@ -1,6 +1,7 @@
 ---
 timeToRead: 2
-authors: []
+authors: 
+- Harlon Times Staff
 title: End of An Era
 excerpt: Today marks the sad end of an era for Harlon and the spawning of a new one!
 date: 2021-08-29T06:00:00+00:00

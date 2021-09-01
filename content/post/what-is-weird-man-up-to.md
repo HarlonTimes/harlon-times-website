@@ -1,6 +1,7 @@
 ---
 timeToRead: 2
-authors: []
+authors:
+- Harlon Times Staff
 title: What is Weird Man Up to?
 excerpt: 'Weird Man has made his entrance to Harlon in Stenford! '
 date: 2021-08-28T06:00:00+00:00
