@@ -1,0 +1,10 @@
+---
+timeToRead: 3
+authors: []
+title: 'Lower West Side  '
+excerpt: 'The time is here to name parts of Harlon. '
+date: 2021-09-15T07:11:00+00:00
+hero: "/images/63d22c50-2d47-4a19-82ee-a2aa378f88c6.jpeg"
+
+---
+Harlon City Server is better than New York City and it's time to make our own versions of their city locations. Today a square was completed by the glorious Harlon Staff and it is situated in the lower west side. The Lower west Side is a fast growing part of Harlon and by the ned of the year could be thriving with new homes for Harlon's families and new bars and restaurants. Victory Column now has the new nickname "Wall Street" and it will soon live up to its nickname with new businesses opening up almost every day. Sergels Square will be nicknamed Downtown Harlon with the sprawling skyscrapers and the big business. Capital Station and spawn will be nicknamed central city. Harlon has never been better and these are the glory days and we must soak it up. From Seaporte to Shoretrench there is no  better city and community that anyone may join! With such a great city and community is it important to take pride in what the great opportunity we have to make Harlon unique with its very own nicknames! Nicknaming parts of the city will expand the sense of pride all Harlonians have! Another way to create pride in our beautiful city is through sports and competition. There has been a call for the stadium to be opened and for the games to begin! Nexalin a Harlon entrepreneur, media proprietor and investor is planning to fund a racetrack where Harlonians will be treated to races by their fellow Harlonians. We believe this will create a new event for everyone to enjoy and join in on. There are countless ways Harlon City Server is already better than New York City and it's time we take pride in our city and make it unique to our liking. 
