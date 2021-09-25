@@ -41,6 +41,7 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/crimson-partners-top-ipo-s-this-week.md
 - content/post/end-of-an-era.md
 - content/post/lower-west-side.md
 - content/post/members-of-parliament-are-not-showing-up-to-parliament-sessions.md
