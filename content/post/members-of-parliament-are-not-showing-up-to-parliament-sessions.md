@@ -3,7 +3,7 @@ timeToRead: 5
 authors: []
 title: 'Members of Parliament are not showing up to Parliament Sessions '
 excerpt: 'Today Parliament was canceled due to only one MP showing up '
-date: 2021-09-25T19:12:00+00:00
+date: 2021-09-25T19:13:00+00:00
 hero: "/images/788e978f-1bf5-4ecf-8170-74e733534d07_1_102_o.jpeg"
 
 ---
