@@ -4,7 +4,7 @@ authors: []
 title: 'The Honest End Of An Era '
 excerpt: 'Kovacs retiring from Harlon this is an honest end of an era for all Harlonians
   who will miss Kovacs. '
-date: 2021-10-10T20:30:00+00:00
+date: 2021-10-10T20:40:00+00:00
 hero: "/images/6324b445-82e4-4a0f-9b5a-06791b50288a.jpeg"
 
 ---
