@@ -1,5 +1,5 @@
 ---
-timeToRead: 2
+timeToRead: 3
 authors: []
 title: 'Harlon''s Soccer Club is back! '
 excerpt: New Owner and renovated stadium Harlon's soccer club is back and ready for
