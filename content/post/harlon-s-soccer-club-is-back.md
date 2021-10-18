@@ -2,7 +2,7 @@
 timeToRead: 3
 authors: []
 title: 'Harlon''s Soccer Club is back! '
-excerpt: New Owner and renovated stadium Harlon's soccer club is back and ready for
+excerpt: New Owner and renovated stadium, Harlon's soccer club is back and ready for
   action!
 date: 2021-10-17T15:00:00+00:00
 hero: "/images/8867806d-c487-4d86-bf03-32d94edca98f.jpeg"
