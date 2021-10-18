@@ -12,6 +12,4 @@ North of Spawn next to the Harlon River lies Harlon's multi purpose stadium whic
 
 **Advertisement**
 
-Dm 
-
 ![To find your next dream house DM RebelJasper Or Nexalin](/images/115d673f-f0db-4e91-9e14-c51d45f160e4_1_201_a.jpeg "Oldbury Retailers")
