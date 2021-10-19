@@ -3,7 +3,7 @@ timeToRead: 3
 authors: []
 title: 'Harlon''s October Election  '
 excerpt: The Election is in 10 Days here is what you need to know.
-date: 2021-10-19T04:00:00+00:00
+date: 2021-10-19T04:05:00+00:00
 hero: "/images/d5112434-ce40-4ec9-be07-2a4f1c4a44b8.jpeg"
 
 ---
