@@ -1,7 +1,7 @@
 ---
 timeToRead: 2
 authors: []
-title: 'The Crystal Club is Open! '
+title: The Crystal Club is Open!
 excerpt: 'Harlon Times breaks down what the crystal club means for all Harlonians. '
 date: 2021-10-24T04:40:00+00:00
 hero: "/images/f0c01030-9b0d-4a76-ae65-1f98479e6c11.jpeg"
