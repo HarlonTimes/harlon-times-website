@@ -4,7 +4,7 @@ authors: []
 title: 'Johnson Parks Progress '
 excerpt: 'Update on the 1 Billion pound Johnson Park including whats new and what
   to expect. '
-date: 2021-10-28T08:45:00+00:00
+date: 2021-10-28T08:50:00+00:00
 hero: "/images/ec053e20-abeb-43d6-b19c-0a6bdf3e9486.jpeg"
 
 ---
