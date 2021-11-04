@@ -3,7 +3,7 @@ timeToRead: 2
 authors: []
 title: Johnson Park Almost Finished!
 excerpt: Johnson Park is almost done! Read to see what all the rave is about!
-date: 2021-11-04T06:12:00+00:00
+date: 2021-11-04T06:15:00+00:00
 hero: "/images/20a64da9-d49e-4b84-a57c-db69152529f3.jpeg"
 
 ---
