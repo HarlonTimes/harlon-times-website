@@ -3,7 +3,7 @@ timeToRead: 2
 authors: []
 title: Get Ready for Hockey!
 excerpt: A super successful donation campaign means hockey is right around the corner!
-date: 2021-11-06T10:12:00+00:00
+date: 2021-11-06T10:13:00+00:00
 hero: "/images/f5e8ab28-dba2-427d-94ad-e41f4599efdb.jpeg"
 
 ---
