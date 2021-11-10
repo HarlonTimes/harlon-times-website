@@ -3,7 +3,7 @@ timeToRead: 2
 authors: []
 title: History Of Harlon
 excerpt: 'Breakdown of how Harlon started and how big things start small. '
-date: 2021-11-10T04:33:00+00:00
+date: 2021-11-10T04:36:00+00:00
 hero: "/images/harlon.png"
 
 ---
