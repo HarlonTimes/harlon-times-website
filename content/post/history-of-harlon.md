@@ -1,0 +1,10 @@
+---
+timeToRead: 2
+authors: []
+title: History Of Harlon
+excerpt: 'Breakdown of how Harlon started and how big things start small. '
+date: 2021-11-10T04:30:00+00:00
+hero: "/images/harlon.png"
+
+---
+Big things can start small and Harlon is no different! Harlon started according to Optimized an owner of Harlon because he overheard Antlucl talking about how he plays minecraft. This led to Antlucl & Optimized deciding to play on a Swedish server called Northcast. Optimized talks about how no one had Skype so they all agreed to meet at spawn at 4:30 and play. Then the journey takes Harlon's founders to Worldcraft where they would play Worldcraft and Northcast and while playing Northcast they would build a city called "Citytown". Then Antlucl and Optimized got bold and decided to start a server called Citytown. Optimized said "so we did a server called citytown and when world craft closed and we started to play there all the time". Then after playing on Citytown for a year they decided to close Citytown to start what would become Old Harlon. But the story doesnt end there. After playing on Old Harlon for a while they quit playing for a whole year and then came back according to Optimized,"and then played again since we wanted to have our own server." After building a lot on Old Harlon the decision was made by the staff team to release Old Harlon after quote "and we built a lot but eventually we lost motivation to build so we just decided to open the server after like 1 year of teasing it on disc." Optimized also said it was their last resort because there would be other people playing on it and therefore it would keep staff intrigued and motivated. Then the rest is history because it has become the great server and community we know today! Harlon Times would like to give a big thanks to Optimized for telling this story even though he did not think it would be published as a story. 
