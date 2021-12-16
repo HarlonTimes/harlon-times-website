@@ -3,7 +3,7 @@ timeToRead: 2
 authors: []
 title: 'Harlon Experience '
 excerpt: Story of Juzzy Buzzy's experience on Harlon so Far
-date: 2021-12-16T06:42:00+00:00
+date: 2021-12-16T06:51:00+00:00
 hero: "/images/juzzy-buzzy.png"
 
 ---
