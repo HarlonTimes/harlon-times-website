@@ -6,4 +6,4 @@ seo:
   image: "/images/hero-2.jpg"
 
 ---
-The Voice of Harlon
+by HBC
