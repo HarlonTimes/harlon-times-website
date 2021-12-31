@@ -5,7 +5,6 @@ title: A New Era of The Harlon Times
 excerpt: The Harlon Times is now under new ownership!
 date: 2021-12-31T05:00:00+00:00
 hero: "/images/hbc3.png"
-draft: true
 
 ---
 Beginning in the new year, the Harlon Times will be under the ownership of HBC! This is a major development in Harlon's news and broadcasting industry, and we believe it'll greatly improve news quality and accessibility. 
