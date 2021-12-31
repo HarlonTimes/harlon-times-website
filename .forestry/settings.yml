@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: https://discord.com/api/webhooks/899871832616882246/suDs_cZOCor0-SX30UP1KOR3j1eilbDMW3XHZ4s9tQmrS8BlpxcUfEYUTzZFtzTbj2C9
+webhook_url: https://discord.com/api/webhooks/926579387745304606/ADj-NWHkX1Ufw3wm9l6zZCOnxWy2EQfgcmnxq3txffBig5y1Da5WnBMB649xKVq3wQt_
 sections:
 - type: heading
   label: Content
