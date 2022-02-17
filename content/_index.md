@@ -6,4 +6,4 @@ seo:
   image: "/images/hero-2.jpg"
 
 ---
-by HBC
+Harlon's biggest news source. We cover all the happenings in HCS, for you. An HBC company.
