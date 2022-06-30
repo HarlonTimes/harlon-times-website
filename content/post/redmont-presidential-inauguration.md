@@ -1,7 +1,7 @@
 ---
 timeToRead: 2
 authors: []
-title: Redmont Presidential Inauguration
+title: Redmont's Presidential Inauguration
 excerpt: Redmont has recently finished an election and sworn in a new adminstration
 date: 2022-06-30T07:00:00+00:00
 hero: "/images/ba5f66ca-cd2c-4053-a6d0-733fdc7a16c0_1_102_o.jpeg"
