@@ -5,7 +5,6 @@ title: Redmont Presidential Inauguration
 excerpt: Redmont has recently finished an election and sworn in a new adminstration
 date: 2022-06-30T07:00:00+00:00
 hero: "/images/ba5f66ca-cd2c-4053-a6d0-733fdc7a16c0_1_102_o.jpeg"
-draft: true
 
 ---
 On June 15, LilDigiVert was sworn in as the President of the nation of Redmont. The nation's presidential republic elects a House of Representatives every two months, and a President every four months. LilDigiVert was confirmed as President of Redmont in an uncontested presidential race. Despite the historically low voter turnout in this election, many came to see the inaugural ceremony. 
