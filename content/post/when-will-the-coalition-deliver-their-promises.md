@@ -5,7 +5,6 @@ title: When will the Coalition Deliver their Promises?
 excerpt: It has been a short stint in government but and not much has been done.
 date: 2022-07-01T07:00:00+00:00
 hero: "/images/2022-06-26_19-56-56.png"
-draft: true
 
 ---
 Since the last election in April, the Harlon Wok Party (HWP) and the Democratic Alliance for the Betterment and Progress of Harlon Party (DAB) have formed a coalition government. DAB leader thegoldenportal was confirmed as Prime Minister along with HWP leader Dirt0066 as Deputy Prime Minister. After forming a coalition on May 1st, they have been leading the government for two months. 
